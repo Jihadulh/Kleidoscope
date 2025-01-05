@@ -1,0 +1,32 @@
+Name : Jihadul Hoque
+Student number : 3379424
+
+description : 
+
+I have created a drawing interactive art were the user can draw using the mouse or touchpad on laptop to draw 
+on the canvas. I orgionally wanted to implement a option for the user to choose the size of the drawing pen however 
+i encountered many problems. The user can choose the color of what they want to choose and also clear the canvas to
+redraw on the canvas. Once the user is done drawing and wants to save the drawing to their device they can save the 
+drawing using the save button, it will be saved as a png file on their computer.
+
+
+things that have helped me:
+to save images : https://www.youtube.com/watch?v=lIhC_GlpLAk
+a  clear button to clear the canvas: https://www.youtube.com/watch?v=lm8Y8TD4CTM
+this video helped with the symetry line : https://www.youtube.com/watch?v=nO6TPuKsuxE
+
+how to use it:
+
+1- use the mouse to press on the canvas 
+2- move the mouse when pressed to show colour on the canvas
+3- click the clear button when you want to clear the canvas
+4- move the slider to the right for more mirrored lines 
+5- click the colored box to change colors 
+6- click the save button to save the drawing to your device
+
+video example:
+
+https://youtu.be/2G70NNBCsu0
+
+
+
